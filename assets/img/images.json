@@ -1,0 +1,186 @@
+{
+  "barre-nuit": {
+    "base": "assets/img/barre-nuit",
+    "widths": [
+      560,
+      840,
+      1122
+    ],
+    "w": 1122,
+    "h": 1683,
+    "alt": ""
+  },
+  "barre-table-a": {
+    "base": "assets/img/barre-table-a",
+    "widths": [
+      640,
+      960,
+      1280,
+      1536
+    ],
+    "w": 1536,
+    "h": 1024,
+    "alt": ""
+  },
+  "bout-table": {
+    "base": "assets/img/bout-table",
+    "widths": [
+      560,
+      840,
+      1122
+    ],
+    "w": 1122,
+    "h": 1683,
+    "alt": ""
+  },
+  "celebration": {
+    "base": "assets/img/celebration",
+    "widths": [
+      640,
+      960,
+      1280,
+      1536
+    ],
+    "w": 1536,
+    "h": 1024,
+    "alt": ""
+  },
+  "colonne": {
+    "base": "assets/img/colonne",
+    "widths": [
+      640,
+      960,
+      1280,
+      1536
+    ],
+    "w": 1536,
+    "h": 1024,
+    "alt": ""
+  },
+  "derriere-barre": {
+    "base": "assets/img/derriere-barre",
+    "widths": [
+      640,
+      960,
+      1280,
+      1536
+    ],
+    "w": 1536,
+    "h": 1024,
+    "alt": ""
+  },
+  "guirlande": {
+    "base": "assets/img/guirlande",
+    "widths": [
+      560,
+      840,
+      1122
+    ],
+    "w": 1122,
+    "h": 1683,
+    "alt": ""
+  },
+  "hero": {
+    "base": "assets/img/hero",
+    "widths": [
+      560,
+      840,
+      1122
+    ],
+    "w": 1122,
+    "h": 1683,
+    "alt": ""
+  },
+  "hote-fond": {
+    "base": "assets/img/hote-fond",
+    "widths": [
+      560,
+      840,
+      1122
+    ],
+    "w": 1122,
+    "h": 1995,
+    "alt": ""
+  },
+  "hote": {
+    "base": "assets/img/hote",
+    "widths": [
+      560,
+      840,
+      1122
+    ],
+    "w": 1122,
+    "h": 1402,
+    "alt": ""
+  },
+  "mur-creme": {
+    "base": "assets/img/mur-creme",
+    "widths": [
+      640,
+      960,
+      1280,
+      1536
+    ],
+    "w": 1536,
+    "h": 1024,
+    "alt": ""
+  },
+  "salle-axe": {
+    "base": "assets/img/salle-axe",
+    "widths": [
+      560,
+      840,
+      1122
+    ],
+    "w": 1122,
+    "h": 1683,
+    "alt": ""
+  },
+  "salon-bordeaux": {
+    "base": "assets/img/salon-bordeaux",
+    "widths": [
+      640,
+      960,
+      1280,
+      1536
+    ],
+    "w": 1536,
+    "h": 1024,
+    "alt": ""
+  },
+  "salon-dore": {
+    "base": "assets/img/salon-dore",
+    "widths": [
+      640,
+      960,
+      1280,
+      1536
+    ],
+    "w": 1536,
+    "h": 1024,
+    "alt": ""
+  },
+  "table-b": {
+    "base": "assets/img/table-b",
+    "widths": [
+      560,
+      840,
+      1122
+    ],
+    "w": 1122,
+    "h": 1683,
+    "alt": ""
+  },
+  "vue-barre": {
+    "base": "assets/img/vue-barre",
+    "widths": [
+      640,
+      960,
+      1280,
+      1536
+    ],
+    "w": 1536,
+    "h": 1024,
+    "alt": ""
+  }
+}
